@@ -36,7 +36,7 @@ def logo():
 def logout():
     psb("\n\033[92m    [*] Thanks For Using Our Tool...")
     psb("    [*] For More Tools, Visit :")
-    psb("\n\t[ https://github.com/ERIIC-3XO/ ]\n")
+    psb("\n\t[https://www.facebook.com/profile.php?id=100001302286495]\n")
     sys.exit()
 
 def real_time():
